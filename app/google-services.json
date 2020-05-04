@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761616675839",
+    "firebase_url": "https://tweetzerland-462b6.firebaseio.com",
+    "project_id": "tweetzerland-462b6",
+    "storage_bucket": "tweetzerland-462b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761616675839:android:da32270ddf99ec48c42dca",
+        "android_client_info": {
+          "package_name": "com.example.tweetzerland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761616675839-0v8svi1cp2g61212t94abjfviuki7ahf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tweetzerland",
+            "certificate_hash": "01c2290dff7730d8b7866b0d7a00946da51508d9"
+          }
+        },
+        {
+          "client_id": "761616675839-314idqpo9hug7h6j1mfkvupseb63ic4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyPz5fjmwK2tSt2W2-KRwsj7mx9li3AtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761616675839-314idqpo9hug7h6j1mfkvupseb63ic4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
